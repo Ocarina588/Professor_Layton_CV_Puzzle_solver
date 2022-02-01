@@ -38,7 +38,6 @@ bool check_victory(std::pair<int, std::string> state, state_u goal)
 bool algorithm(int from, int to, state_u limits, state_u goal, std::queue<std::pair<int, std::string>> &states,
     std::unordered_set<int> &seen_states, std::pair<int, std::string> &state)
 {
-
     auto new_state = state;
     state_u s = {state.first};
 
