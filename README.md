@@ -16,9 +16,7 @@ This project was made to find the best solution in a series of puzzles in the ga
 - 078 Water Pitchers
 
 <p align="center">
-  <img align="center" width="250"src="assets/IMG-4054.jpg" />
-  <img align="center" width="250"src="assets/IMG-4055.jpg" />
-  <img align="center" width="250"src="assets/IMG-4056.jpg" />
+  <img align="center" src="assets/IMG-4067.PNG" />
 </p>
 
 # Usage
