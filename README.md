@@ -4,6 +4,8 @@
 
 <h1 align="center">
   Professor Layton and the Curious Village
+</h1>
+<h1 align="center">
   Crouton's Pitchers
 </h1>
 
