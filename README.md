@@ -16,7 +16,7 @@ This project was made to find the best solution in a series of puzzle in the gam
 - 078 Water Pitchers
 
 <p align="center">
-  <img align="center" width="200"src="assets/IMG-4054.jpg" />
-  <img align="center" width="200"src="assets/IMG-4055.jpg" />
-  <img align="center" width="200"src="assets/IMG-4056.jpg" />
+  <img align="center" width="250"src="assets/IMG-4054.jpg" />
+  <img align="center" width="250"src="assets/IMG-4055.jpg" />
+  <img align="center" width="250"src="assets/IMG-4056.jpg" />
 </p>
