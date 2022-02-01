@@ -34,10 +34,11 @@ The binary takes 6 arguments ->
 
 
 # Exemple
+
+Here's an exemple to solve "Water Pitchers"
 ```
 Croutons_pitchers 16 9 7 8 8 0
 ```
-
 
 ```
 The steps are:
