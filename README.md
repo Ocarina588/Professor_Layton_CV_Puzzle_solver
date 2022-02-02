@@ -40,7 +40,7 @@ After that, you can find the binary in the "build" folder
 # Usage
 
 ```
-Croutons_pitchers x0 x1 x2 y0 y1 y2
+./Croutons_pitchers x0 x1 x2 y0 y1 y2
 ```
 
 The binary takes 6 arguments:
