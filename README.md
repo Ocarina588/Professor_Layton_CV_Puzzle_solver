@@ -7,7 +7,7 @@
 </h1>
 
 <h align="center">
-This project was made to find the best solution in a series of puzzles in the game "Professor Layton and the Curious Village"
+Recently I bought "Professor Layton and the Curious Village" on my phone because this game has been one of my favorites since I was a child. This project was made to find the best solution to some puzzles in the game.
 </h3>
 
 <p align="center">
