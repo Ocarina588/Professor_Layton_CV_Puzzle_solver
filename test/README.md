@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="assets/professor-layton-curious-village.png" />
+  <img align="center" src="../assets/professor-layton-curious-village.png" />
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@ This project was made to find the best solution in a series of puzzles in the ga
 - 078 Water Pitchers
 
 <p align="center">
-  <img align="center" src="assets/IMG-4067.PNG" />
+  <img align="center" src="../assets/IMG-4067.PNG" />
 </p>
 
 # Build
