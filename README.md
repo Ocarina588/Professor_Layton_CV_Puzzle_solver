@@ -6,6 +6,10 @@
   Professor Layton and the Curious Village
 </h1>
 
+<h align="center">
+This project was made to find the best solution in a series of puzzles in the game "Professor Layton and the Curious Village"
+</h3>
+
 <p align="center">
   <img align="center" src="assets/Dm16reqUYAAP5dr.jpeg" />
 </p>
