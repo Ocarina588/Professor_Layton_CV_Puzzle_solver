@@ -22,5 +22,5 @@
 | **078** Water Pitchers | [Crouton's Pitchers][Pitchers] |
 
 
-[Pitchers]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+[Pitchers]: <https://github.com/Ocarina588/Professor_Layton_CV--Croutons_Pitchers/tree/main/Croutons_Pitchers>
 
