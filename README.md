@@ -40,7 +40,7 @@ After that, you can find the binary in the "build" folder
 # Usage
 
 ```
-Croutons_pitchers x0 x1 x2 y0 y1 y2
+./Croutons_pitchers x0 x1 x2 y0 y1 y2
 ```
 
 The binary takes 6 arguments:
@@ -53,7 +53,7 @@ The binary takes 6 arguments:
 
 Here's an exemple to solve "Water Pitchers"
 ```
-Croutons_pitchers 16 9 7 8 8 0
+./Croutons_pitchers 16 9 7 8 8 0
 ```
 
 ```
