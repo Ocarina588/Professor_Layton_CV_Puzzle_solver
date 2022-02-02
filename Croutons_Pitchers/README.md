@@ -9,7 +9,9 @@
   Crouton's Pitchers
 </h1>
 
-This project was made to find the best solution in a series of puzzles in the game "Professor Layton and the Curious Village". Those puzzles were proposed by Crouton, the owner of the restaurant.
+These puzzles were proposed by Crouton, the owner of the restaurant.
+
+Since the program can take the capacity of each pitcher and the final state, you can create every variation of this puzzle **that you want!**
 
 # Puzzles
 
