@@ -10,13 +10,13 @@
   <img align="center" src="assets/Dm16reqUYAAP5dr.jpeg" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="left" width="150px" src="assets/MicrosoftTeams-image.png" />
   <img align="right" width="80px" src="assets/HershelLayton.png" />
-</p>
+</p> -->
 
 | Puzzle | Program |
-| ------ | ------ |
+| :------: | :------: |
 | **023** Juice Pitchers | [Crouton's Pitchers][Pitchers] |
 | **024** Milk Pitchers | [Crouton's Pitchers][Pitchers] |
 | **078** Water Pitchers | [Crouton's Pitchers][Pitchers] |
