@@ -15,7 +15,7 @@ This project was made to find the best solution in a series of puzzles in the ga
 </p>
 
 <p align="center">
-  <img align="left" width="150px" src="assets/MicrosoftTeams-image.png" />
+  <img align="left" width="200px" src="assets/MicrosoftTeams-image.png" />
   <img align="right" width="100px" src="assets/HershelLayton.png" />
 </p>
 
