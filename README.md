@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- <img align="left" width="150px" src="assets/MicrosoftTeams-image.png" /> -->
-  <img align="right" width="80px" src="assets/HershelLayton.png" />
+  <img align="right" width="85px" src="assets/HershelLayton.png" />
 </p>
 
 | Puzzle | Program |
