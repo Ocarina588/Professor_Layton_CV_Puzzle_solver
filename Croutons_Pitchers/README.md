@@ -27,7 +27,7 @@ Since the program can take the capacity of each pitcher and the final state, you
 
 This project was made in c++ with cmake, so you will need g++ and cmake
 
-You can build the project on linux like so:
+You can build the project like so:
 ```
 rm -rf build
 mkdir build
@@ -35,7 +35,7 @@ cd build
 cmake ..
 cmake --build .
 ```
-Or you can use the script "build_linux.sh" to build the project.
+Or you can use the script "build.sh" to build the project.
 
 After that, you can find the binary in the "build" folder
 
