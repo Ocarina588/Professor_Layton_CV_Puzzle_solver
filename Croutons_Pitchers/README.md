@@ -9,9 +9,11 @@
   Crouton's Pitchers
 </h1>
 
+Project for my Combinatorics class at Tsinghua University
+
 These puzzles were proposed by Crouton, the owner of the restaurant.
 
-Since the program can take the capacity of each pitcher and the final state, you can create every variation of this puzzle **that you want!**
+Since the program can take the capacity of each pitcher and the final state, you can create every variation of this puzzle **that you want!** (but the maximum capacity has to be hold in 8 bits for optimisation reasons)
 
 # Puzzles
 
@@ -22,6 +24,12 @@ Since the program can take the capacity of each pitcher and the final state, you
 <p align="center">
   <img align="center" src="../assets/IMG-4067.PNG" />
 </p>
+
+# Video
+
+If you want to see the demo of this game, you can watch it here:
+
+https://www.youtube.com/watch?v=oEaVHxA4m3U
 
 # Build
 
@@ -76,3 +84,44 @@ The steps are:
 1 > 2
 2 > 0
 ```
+
+# Algorithm
+
+I choose to store the quantity of liquid of each pitcher in an array of 3 unsigned char.
+
+This array share his memory with another int inside an union called state.
+
+```c++
+typedef union {
+    int id = 0;
+    unsigned char pitchers[3];
+} state_u;
+```
+The advantage is that now I can fill the array and have an unique indentifier that represents it.
+
+Thanks to this, I can easily create a set to keep track of all different states that we had during the game.
+
+here's a little pseudo code
+```
+set   seen_states;
+queue states;
+
+...
+... variable initialization, adding first state to the queue and creating goal_state
+...
+
+while (states not empty):
+    actual_state = states.pop()
+
+    if actual_state == goal_state:
+      return
+
+    seen_states.add(actual_state)
+    ...
+    ... create new states from the one gotten from the queue and add them to the queue
+    ...
+
+
+
+```
+

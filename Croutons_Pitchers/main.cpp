@@ -4,7 +4,7 @@
 
 typedef union {
     int id = 0;
-    char pitchers[3];
+    unsigned char pitchers[3];
 } state_u;
 
 std::pair<int, int> get_variables(int ac, char **av)
@@ -12,8 +12,8 @@ std::pair<int, int> get_variables(int ac, char **av)
     if (ac != 7)
         throw std::runtime_error("bad arguments");
 
-    state_u x = {.pitchers = {(char)std::atoi(av[1]), (char)std::atoi(av[2]), (char)std::atoi(av[3])}};
-    state_u y = {.pitchers = {(char)std::atoi(av[4]), (char)std::atoi(av[5]), (char)std::atoi(av[6])}};
+    state_u x = {.pitchers = {(u_char)std::atoi(av[1]), (u_char)std::atoi(av[2]), (u_char)std::atoi(av[3])}};
+    state_u y = {.pitchers = {(u_char)std::atoi(av[4]), (u_char)std::atoi(av[5]), (u_char)std::atoi(av[6])}};
 
     return std::make_pair(x.id, y.id);
 }
